@@ -7,7 +7,7 @@
     <description>Cordova Html5-QRCode Plugin</description>
     <keywords>cordova,html5-qrcode,scanner,plugin</keywords>
 
-    <asset src="www/js/html5-qrcode.min.js" target="js/hello.js"/>
+    <asset src="www/js/html5-qrcode.min.js" target="js/html5-qrcode.min.js"/>
 
     <js-module src="www/js/html5-qrcode.min.js" name="html5qrcode">
         <clobbers target="html5qrcode"/>
