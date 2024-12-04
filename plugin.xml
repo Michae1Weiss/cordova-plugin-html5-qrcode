@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
+        id="cordova-plugin-html5-qrcode"
+        version="1.0.0">
+
+    <name>Html5-QRCode</name>
+    <description>Cordova Html5-QRCode Plugin</description>
+    <keywords>cordova,html5-qrcode,scanner,plugin</keywords>
+
+    <js-module src="www/js/html5-qrcode.min.js" name="html5qrcode">
+        <clobbers target="html5qrcode"/>
+    </js-module>
+
+</plugin>
