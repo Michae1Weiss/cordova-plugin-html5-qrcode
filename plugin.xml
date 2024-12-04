@@ -9,10 +9,6 @@
 
     <asset src="www/js/html5-qrcode.min.js" target="js/html5-qrcode.min.js"/>
 
-    <js-module src="www/js/html5-qrcode.min.js" name="html5qrcode">
-        <clobbers target="html5qrcode"/>
-    </js-module>
-
     <!-- ios -->
     <platform name="ios">
     </platform>
