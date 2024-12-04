@@ -1,0 +1,29 @@
+{
+  "name": "cordova-plugin-html5-qrcode",
+  "version": "1.0.0",
+  "description": "Cordova Html5-QRCode Plugin",
+  "cordova": {
+    "id": "cordova-plugin-html5-qrcode",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Michae1Weiss/cordova-plugin-html5-qrcode.git"
+  },
+  "keywords": [
+    "cordova",
+    "html5qrcode",
+    "scanner",
+    "plugin",
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "author": "Mykhailo Bilyi",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/Michae1Weiss/cordova-plugin-html5-qrcode/issues"
+  },
+  "homepage": "https://github.com/Michae1Weiss/cordova-plugin-html5-qrcode#readme"
+}
